@@ -153,7 +153,7 @@
 <section class="login-section">
     <div class="login-container">
         <div class="login-info">
-            <h2>PHƯƠNG TRANG</h2>
+            <h2>G2 Bus Ticket</h2>
             <p>Cùng bạn trên mọi nẻo đường</p>
             <p>XE TRUNG CHUYỂN<br>ĐÓN - TRẢ TẬN NƠI</p>
         </div>
@@ -188,7 +188,7 @@
             <h3>TRUNG TÂM TỔNG ĐÀI & CSKH</h3>
             <p class="hotline">1900 6067</p>
             <p>CÔNG TY CỔ PHẦN XE KHÁCH G2 Bus - G2 BUS LINES</p>
-            <p>Địa chỉ: Hòa Lạc, Hà ội, Việt Nam.</p>
+            <p>Địa chỉ: Hòa Lạc, Hà nội, Việt Nam.</p>
             <p>Email: <a href="mailto:GPT@fpt.edu.vn">GPT@fpt.edu.vn</a></p>
             <p>Điện thoại: 0979605489</p>
         </div>
